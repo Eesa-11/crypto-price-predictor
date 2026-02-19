@@ -4,7 +4,10 @@ An interactive web application for analyzing and forecasting cryptocurrency pric
 
 Built with Streamlit for deployment and Plotly for visualization.
 
+[🔗 Live Demo on Streamlit](https://your-app-name.streamlit.app)
+
 ---
+
 
 ## 🚀 Features
 
@@ -100,11 +103,8 @@ streamlit run app.py
 
 ## 🌍 Deployment
 
-This project can be deployed easily on:
-
-- Streamlit Cloud
-- Render
-- Railway
+This app is deployed on Streamlit Cloud:  
+[Click here to open live app](https://your-app-name.streamlit.app)
 
 ---
 
