@@ -126,4 +126,5 @@ Cryptocurrency markets are highly volatile. Predictions are based on historical 
 ## 👨‍💻 Author
 
 Muhammad Eesa Orakzai 
+
 Artificial Intelligence Student
