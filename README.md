@@ -18,7 +18,6 @@ Built with Streamlit for deployment and Plotly for visualization.
 - Performance metrics:
   - MAE (Mean Absolute Error)
   - R² Score
-  - MAPE
 - Residual analysis
 - Monthly, yearly and daily trend analysis
 - Confidence interval visualization
